@@ -1,0 +1,11 @@
+nome = input ('Qual é o seu nome? ')
+print ('Seja bem-vindo', nome)
+dia = input ('Que dia você nasceu? ')
+mes = input ('Qual mês você nasceu? ')
+ano = input ('Qual ano você nasceu? ')
+print (nome, 'nasceu em', dia,'/',mes,'/',ano)
+print (nome,'você nasceu no dia',dia, 'de',mes,'de',ano)
+
+n1 = input ('Digite um numero: ')
+n2 = input ('Digite outro numero: ')
+print (n1 + n2) 
